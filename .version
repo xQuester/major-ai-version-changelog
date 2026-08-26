@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-08-26",
+  "last_checked": "2026-08-27",
   "apps": {
     "claude-code": {
-      "latest": "2.1.245",
+      "latest": "2.1.246",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.245",
-        "cli": "2.1.245"
+        "gui": "2.1.246",
+        "cli": "2.1.246"
       },
-      "published_changelog_latest": "2.1.245"
+      "published_changelog_latest": "2.1.246"
     },
     "codex": {
       "latest": "26.727",
@@ -42,7 +42,11 @@
         "computer_history_europe": "2026-08-20",
         "shared_thread_snapshots": "2026-08-20",
         "unified_pinned_threads": "2026-08-20",
-        "mcp_server_deprecated": "2026-08-24"
+        "mcp_server_deprecated": "2026-08-24",
+        "browser_extensions_more_browsers": "2026-08-25",
+        "site_tools_webmcp": "2026-08-25",
+        "cloud_browser_signin": "2026-08-25",
+        "scheduled_tasks_app_events": "2026-08-25"
       }
     },
     "cursor": {
@@ -72,13 +76,13 @@
         "gui": "2.10.0",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.1.20"
+        "cli_binary": "1.1.21"
       },
       "component_dates": {
         "gui": "2026-08-24",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-08-25"
+        "cli_binary": "2026-08-26"
       }
     }
   }
