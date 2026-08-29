@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-08-29",
+  "last_checked": "2026-08-30",
   "apps": {
     "claude-code": {
       "latest": "2.1.251",
@@ -17,12 +17,12 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.727",
-        "cli": "0.150.1",
+        "cli": "0.151.0",
         "mobile": "1.2026.230"
       },
       "component_dates": {
         "gui": "2026-07-30",
-        "cli": "2026-08-27",
+        "cli": "2026-08-29",
         "mobile": "2026-08-26",
         "general": "2026-07-14"
       },
