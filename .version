@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-02",
+  "last_checked": "2026-09-03",
   "apps": {
     "claude-code": {
-      "latest": "2.1.257",
+      "latest": "2.1.258",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.257",
-        "cli": "2.1.257"
+        "gui": "2.1.258",
+        "cli": "2.1.258"
       },
-      "published_changelog_latest": "2.1.257"
+      "published_changelog_latest": "2.1.258"
     },
     "codex": {
       "latest": "26.727",
@@ -17,13 +17,13 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.727",
-        "cli": "0.152.0",
-        "mobile": "1.2026.230"
+        "cli": "0.152.1",
+        "mobile": "1.2026.237"
       },
       "component_dates": {
         "gui": "2026-07-30",
         "cli": "2026-09-01",
-        "mobile": "2026-08-26",
+        "mobile": "2026-09-01",
         "general": "2026-07-14"
       },
       "notices": {
@@ -77,13 +77,13 @@
         "gui": "2.11.0",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.1.22"
+        "cli_binary": "1.1.23"
       },
       "component_dates": {
         "gui": "2026-08-26",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-08-27"
+        "cli_binary": "2026-09-01"
       }
     }
   }
