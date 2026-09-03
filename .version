@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-03",
+  "last_checked": "2026-09-04",
   "apps": {
     "claude-code": {
-      "latest": "2.1.258",
+      "latest": "2.1.259",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.258",
-        "cli": "2.1.258"
+        "gui": "2.1.259",
+        "cli": "2.1.259"
       },
-      "published_changelog_latest": "2.1.258"
+      "published_changelog_latest": "2.1.259"
     },
     "codex": {
       "latest": "26.727",
@@ -17,12 +17,12 @@
       "source": "https://developers.openai.com/codex/changelog",
       "components": {
         "gui": "26.727",
-        "cli": "0.152.1",
+        "cli": "0.153.0",
         "mobile": "1.2026.237"
       },
       "component_dates": {
         "gui": "2026-07-30",
-        "cli": "2026-09-01",
+        "cli": "2026-09-03",
         "mobile": "2026-09-01",
         "general": "2026-07-14"
       },
@@ -66,24 +66,25 @@
         "cloud_agent_prebuilds": "2026-08-13",
         "origin_code_hosting": "2026-08-17",
         "cloud_agent_subscriptions": "2026-08-19",
-        "start_from_scratch": "2026-08-27"
+        "start_from_scratch": "2026-08-27",
+        "self_hosted_machines": "2026-09-02"
       }
     },
     "antigravity": {
-      "latest": "2.11.0",
-      "date": "2026-08-26",
+      "latest": "2.12.0",
+      "date": "2026-09-02",
       "source": "https://antigravity.google/changelog",
       "components": {
-        "gui": "2.11.0",
+        "gui": "2.12.0",
         "ide": "2.5.5",
         "cli": "2.0",
-        "cli_binary": "1.1.23"
+        "cli_binary": "1.1.25"
       },
       "component_dates": {
-        "gui": "2026-08-26",
+        "gui": "2026-09-02",
         "ide": "2026-08-13",
         "cli": null,
-        "cli_binary": "2026-09-01"
+        "cli_binary": "2026-09-03"
       }
     }
   }
