@@ -1,15 +1,15 @@
 {
-  "last_checked": "2026-09-06",
+  "last_checked": "2026-09-07",
   "apps": {
     "claude-code": {
-      "latest": "2.1.261",
+      "latest": "2.1.263",
       "date": null,
       "source": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
       "components": {
-        "gui": "2.1.261",
-        "cli": "2.1.261"
+        "gui": "2.1.263",
+        "cli": "2.1.263"
       },
-      "published_changelog_latest": "2.1.261"
+      "published_changelog_latest": "2.1.263"
     },
     "codex": {
       "latest": "26.727",
